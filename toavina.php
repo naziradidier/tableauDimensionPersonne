@@ -1,9 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8">
-  </head>
-  <body>
 <?php
     $Personne = array (
         $colonne = array("Nom", "Nazirah", "Miora", "Toavina"),
@@ -22,5 +16,4 @@
     }
     ?>
     <a href="http://localhost/test/pageToPage.html.php"><p>retourner vers la liste</p></a>
-    </body>
-    </html>
+    
