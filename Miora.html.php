@@ -13,7 +13,7 @@
         $colonne = array("Lieu","Diego", "Fianarantsoa", "Antsirabe")
     );
     
-    // afficher toavina seulement
+    // afficher toavina seulement---------------------------------------------------------------------------------------
     for ($ligne= 0; $ligne < count($colonne); $ligne++) {
           echo "<dl>";
           for ($col = 0; $col < count($colonne)-1; $col+=2) {
