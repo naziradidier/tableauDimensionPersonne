@@ -60,7 +60,7 @@
             ];
             
             /*Tableau multidimensionnel numéroté stockant
-             *des tableaux associatifs et une valeur simple*/
+             *des tableaux associatifs et une valeur simple;*/
             $utilisateurs = [
                 ['nom' => 'Mathilde', 'mail' => 'math@gmail.com'],
                 ['nom' => 'Pierre', 'mail' => 'pierre.giraud@edhec.com'],
@@ -75,7 +75,7 @@
                 'Stickers' => ['poids' => 10, 'quantite' => 100, 'prix' => 1.5]
             ];
             
-            //$sous_suite = [1, 2, 4, 8, 16]
+            //$sous_suite = [1, 2, 4, 8, 16];
             $sous_suite = $suite[0];
             echo $sous_suite[0]. '<br>'.$sous_suite[2]. '<br>';
             
