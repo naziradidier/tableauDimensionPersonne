@@ -1,4 +1,5 @@
 <?php
+// tableau
     $Personne = array (
         $colonne = array("Nom", "Nazirah", "Miora", "Toavina"),
         $colonne = array("Prénom","Prisca", "Jelisca", "Mbola"),
