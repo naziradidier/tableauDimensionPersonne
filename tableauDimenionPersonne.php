@@ -15,6 +15,7 @@
       echo "</dl>";
     }
 
+// affiché nom: ...
     echo $Personne[0][0].": ".$Personne[0][2].".<br>";
     echo $Personne[1][0]." :".$Personne[1][2].".<br>";
     echo $Personne[2][0].":".$Personne[2][2].".<br>";
