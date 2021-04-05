@@ -6,7 +6,7 @@
         $colonne = array("age",19, 20, 21),
         $colonne = array("Lieu","Ambanja", "Diego", "Majunga")
     );
-
+// fonction afficher table en lien
     function returnTable($table){
         $table = array("Nazirah", "Miora", "Toavina");
           echo "<ul>";
