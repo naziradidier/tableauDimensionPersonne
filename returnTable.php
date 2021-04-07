@@ -10,6 +10,7 @@
     function returnTable($table){
         $table = array("Nazirah", "Miora", "Toavina");
           echo "<ul>";
+//         boucle pour mettre tous les tableaux en lien
           for ($i = 0; $i < count($table); $i++) {
               echo "<li>";
               echo "<a href=\"http://localhost/test/$table[$i].html.php\"> $table[$i]</a>";
