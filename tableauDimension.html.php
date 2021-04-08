@@ -9,6 +9,7 @@
     </head>
     
     <body>
+<!--         titre -->
         <h1>Titre principal</h1>
         <?php
             /*Tableau multidimensionnel numéroté stockant
