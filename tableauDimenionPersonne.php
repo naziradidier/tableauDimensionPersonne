@@ -9,6 +9,7 @@
 // boucle pour afficher le tableau
 
     for ($ligne= 0; $ligne < count($colonne); $ligne++) {
+//         liste sans decoration
       echo "<dl>";
       for ($col = 0; $col < count($colonne); $col++) {
         echo "<dd>".$Personne[$ligne][$col]."</dd>";
