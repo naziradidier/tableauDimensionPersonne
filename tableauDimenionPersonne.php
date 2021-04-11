@@ -23,14 +23,14 @@
     echo $Personne[2][0].":".$Personne[2][2].".<br>";
     echo $Personne[3][0].": ".$Personne[3][2].".<br>";
     // *****************************************************
-    // afficher miora seulement
-    // for ($ligne= 0; $ligne < count($colonne); $ligne++) {
-    //   echo "<dl>";
-    //   for ($col = 0; $col < count($colonne)-1; $col+=2) {
-    //     echo "<dd>".$Personne[$ligne][$col]."</dd>";
-    //   }
-    //   echo "</dl>";
-    // }
+    afficher miora seulement
+    for ($ligne= 0; $ligne < count($colonne); $ligne++) {
+      echo "<dl>";
+      for ($col = 0; $col < count($colonne)-1; $col+=2) {
+        echo "<dd>".$Personne[$ligne][$col]."</dd>";
+      }
+      echo "</dl>";
+    }
     // // *****************************************************
     // for ($ligne= 0; $ligne < count($Personne); $ligne++) {
     //   echo "<dl>";
