@@ -23,6 +23,7 @@
           echo "</dl>";
         }
     ?>
+<!--lien à cliquer -->
      <a href="http://localhost/test/pageToPage.html.php"><p>retourner vers la liste</p></a>
     </body>
     </html>
