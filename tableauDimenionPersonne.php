@@ -32,11 +32,11 @@
       echo "</dl>";
     }
     // // *****************************************************
-    // for ($ligne= 0; $ligne < count($Personne); $ligne++) {
-    //   echo "<dl>";
-    //   for ($col = 0; $col < count($colonne)-2; $col++) {
-    //     echo "<dd>".$Personne[$ligne][$col]."</dd>";
-    //   }
-    //   echo "</dl>";
-    // }
+    for ($ligne= 0; $ligne < count($Personne); $ligne++) {
+      echo "<dl>";
+      for ($col = 0; $col < count($colonne)-2; $col++) {
+        echo "<dd>".$Personne[$ligne][$col]."</dd>";
+      }
+      echo "</dl>";
+    }
 ?>
