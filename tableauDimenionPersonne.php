@@ -25,6 +25,7 @@
     // *****************************************************
 //     afficher miora seulement
     for ($ligne= 0; $ligne < count($colonne); $ligne++) {
+//         liste
       echo "<dl>";
       for ($col = 0; $col < count($colonne)-1; $col+=2) {
         echo "<dd>".$Personne[$ligne][$col]."</dd>";
