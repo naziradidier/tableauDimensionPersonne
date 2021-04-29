@@ -18,10 +18,10 @@ boucle pour afficher le tableau
     }
 
 // affiché nom: ...
-//     echo $Personne[0][0].": ".$Personne[0][2].".<br>";
-//     echo $Personne[1][0]." :".$Personne[1][2].".<br>";
-//     echo $Personne[2][0].":".$Personne[2][2].".<br>";
-//     echo $Personne[3][0].": ".$Personne[3][2].".<br>";
+    echo $Personne[0][0].": ".$Personne[0][2].".<br>";
+    echo $Personne[1][0]." :".$Personne[1][2].".<br>";
+    echo $Personne[2][0].":".$Personne[2][2].".<br>";
+    echo $Personne[3][0].": ".$Personne[3][2].".<br>";
     // *****************************************************
 //     afficher miora seulement
     for ($ligne= 0; $ligne < count($colonne); $ligne++) {
