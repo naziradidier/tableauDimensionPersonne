@@ -1,12 +1,12 @@
 <?php
 tableau
     $Personne = array (
-        $colonne = array("Nom", "Nazirah", "Miora", "Toavina"),
-        $colonne = array("Prénom","Prisca", "Jelisca", "Mbola"),
-        $colonne = array("age",19, 20, 21),
-        $colonne = array("Lieu","Ambanja", "Diego", "Majunga")
-    );
-boucle pour afficher le tableau
+//         $colonne = array("Nom", "Nazirah", "Miora", "Toavina"),
+//         $colonne = array("Prénom","Prisca", "Jelisca", "Mbola"),
+//         $colonne = array("age",19, 20, 21),
+//         $colonne = array("Lieu","Ambanja", "Diego", "Majunga")
+//     );
+// boucle pour afficher le tableau
 
     for ($ligne= 0; $ligne < count($colonne); $ligne++) {
         liste sans decoration
