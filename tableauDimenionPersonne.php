@@ -6,8 +6,8 @@ tableau
         $colonne = array("age",19, 20, 21),
         $colonne = array("Lieu","Ambanja", "Diego", "Majunga")
     );
-// boucle pour afficher le tableau
 
+boucle pour afficher le tableau
     for ($ligne= 0; $ligne < count($colonne); $ligne++) {
         liste sans decoration
       echo "<dl>";
