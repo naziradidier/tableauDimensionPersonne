@@ -12,8 +12,8 @@
 <!--         titre -->
         <h1>Titre principal</h1>
         <?php
-            /*Tableau multidimensionnel numéroté stockant
-             *des tableaux numérotés*/
+            Tableau multidimensionnel numéroté stockant
+             *des tableaux numérotés
             $suite = [
                 [1, 2, 4, 8, 16],
                 [1, 3, 9, 27, 81]
